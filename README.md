@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">A passionate linguist candidate from Türkiye</h3>
+<h3 align="center">Just someone</h3>
 
 - 🌱 I’m currently learning **Bootstrap, React**
 
